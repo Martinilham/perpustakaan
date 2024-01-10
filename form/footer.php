@@ -6,7 +6,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p>Copyright &copy; 2016 - <?php echo date("Y"); ?> by Yudha Tri Putra </p>
+                    <p>Copyright &copy; 2023 - <?php echo date("Y"); ?> Martinussss </p>
                 </div>
             </div>
         </footer>
